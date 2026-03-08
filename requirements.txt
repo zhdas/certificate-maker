@@ -1,7 +1,5 @@
 streamlit
-openpyxl
 pandas
+openpyxl
 reportlab
 PyPDF2
-pywin32
-pillow
