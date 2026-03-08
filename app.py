@@ -5,7 +5,7 @@ import openpyxl
 import streamlit as st
 
 import design
-from generator import generate_full_package
+# from generator import generate_full_package
 
 
 def save_uploaded_file(uploaded_file) -> str:
